@@ -6,14 +6,18 @@ I am an engineer by profession and an independent financial planner on the side.
 
 ## Works
 
-[**Engineer**](https://github.com/takatoshiinaoka) / [**Financial Planner**](https://fp.takatoshiinaoka.com)
+[**__Engineer__**](https://github.com/takatoshiinaoka) / [**__Financial Planner__**](https://fp.takatoshiinaoka.com)
 
 ## Language
 
 - Japanese
 - Programming Language (html,css,xml,ts,c#)
 
+## Apps
+
+- [__御魚 なぞの カタカナ__](https://onaka.takatoshiinaoka.com)
+
 ## External Site
 
-- App lists I made : [Topa'z](https://topaz.dev/takatoshiinaoka)
-- Work Resume : [Wantedly](https://www.wantedly.com/id/takatoshiinaoka)
+- App lists I made : [__Topa'z__](https://topaz.dev/takatoshiinaoka)
+- Work Resume : [__Wantedly__](https://www.wantedly.com/id/takatoshiinaoka)
