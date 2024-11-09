@@ -15,5 +15,5 @@ I am an engineer by profession and an independent financial planner on the side.
 
 ## External Site
 
-- App lists I made : [Topa'z](https://topaz.dev/)
+- App lists I made : [Topa'z](https://topaz.dev/takatoshiinaoka)
 - Work Resume : [Wantedly](https://www.wantedly.com/id/takatoshiinaoka)
