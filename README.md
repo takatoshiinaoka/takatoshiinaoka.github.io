@@ -6,7 +6,7 @@ I am an engineer by profession and an independent financial planner on the side.
 
 ## Works
 
-[**__Engineer__**](https://github.com/takatoshiinaoka) / [**__Financial Planner__**](https://fp.takatoshiinaoka.com)
+[__Engineer__](https://github.com/takatoshiinaoka) / [__Financial Planner__](https://fp.takatoshiinaoka.com)
 
 ## Language
 
